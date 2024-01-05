@@ -1,2 +1,2 @@
 # kotlin-registrar-tareas
-Sistema de consola para registrar tareas
+Sistema de consola para gestionar tareas
